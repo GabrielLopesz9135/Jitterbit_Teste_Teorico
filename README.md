@@ -116,7 +116,7 @@ Todas as rotas de pedidos requerem JWT.
 ## 📄 Documentação
 
 Você pode acessar a documentação detalhada da API aqui:
-[Link da documentação](#)
+[Link da documentação](#https://documenter.getpostman.com/view/42654800/2sB3dMvpqu)
 
 ---
 
